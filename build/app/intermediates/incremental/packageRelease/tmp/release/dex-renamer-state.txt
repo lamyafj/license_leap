@@ -1,0 +1,4 @@
+#Thu Mar 28 06:06:31 AST 2024
+base.0=C\:\\flutterapps\\license_leap\\license_leap\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
